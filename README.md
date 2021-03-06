@@ -1,7 +1,7 @@
 #### Hi, there!
 I am a technology lover, fascinated by innovation and software development. More specifically, I am interested in web development, devops, software infrastructure, software architecture, code design, software security, agile and digital product management.
 
-Right now, I am working as Software Developer at @loomi. I am focused on front-end development - using React, mainly -, but I also work as a back-end developer on some projects - using Node.js, Django and PostgreSql, for example.
+Right now, I am working as Software Developer at [loomi](https://www.linkedin.com/company/loomi-digital-lab/mycompany/) & [GZero](https://www.linkedin.com/company/gravidadezero-journey/mycompany/). I am focused on front-end development - using React, mainly -, but I also work as a back-end developer on some projects - using Node.js, Django and PostgreSql, for example.
 
 ***
 
