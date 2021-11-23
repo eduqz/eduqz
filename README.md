@@ -1,11 +1,14 @@
 #### Hi, there!
-I am a technology lover, fascinated by innovation and software development. More specifically, I am interested in web development, devops, software infrastructure, software architecture, code design, software security, agile and digital product management.
+Technology, management, innovation and design enthusiast.
 
-Right now, I am working as Software Developer at [loomi](https://www.linkedin.com/company/loomi-digital-lab/mycompany/) & [GZero](https://www.linkedin.com/company/gravidadezero-journey/mycompany/). I am focused on front-end development - using React, mainly -, but I also work as a back-end developer on some projects - using Node.js, Django and PostgreSql, for example.
+Working as Software Manager at [loomi](https://www.linkedin.com/company/loomi-digital-lab/mycompany/), using agile methodologies, management strategies and evolution of digital products, software architecture and software maintenance techniques.
 
+Interested in software development, agile, project management, product management, people development and experience, devops, software infrastructure, software architecture, code design, security and software privacy.
+
+Has knowledge in Python, JavaScript and Java programming languages - with a focus on Django and React frameworks; in use of relational databases; in SRE, using Docker, services from Digital Ocean and AWS.
 ***
 
-To see more information and/or contact me:
+To see more information, visit [my website](https://eduqz.github.io/) and/or contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoaqz/)](https://www.linkedin.com/in/eduardoaqz/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@eaq)](https://medium.com/@eaq)
