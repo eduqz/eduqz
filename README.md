@@ -1,7 +1,7 @@
 #### Hi, there!
 Technology, management, innovation and design enthusiast.
 
-Working as Software Manager at [loomi](https://www.linkedin.com/company/loomi-digital-lab/mycompany/), using agile methodologies, management strategies and evolution of digital products, software architecture and software maintenance techniques.
+Working as Software Manager at [loomi](https://www.linkedin.com/company/loomi-digital-lab/mycompany/), using agile methodologies, management strategies, software architecture and software maintenance techniques to lead teams and manage the evolution of digital products.
 
 Interested in software development, agile, project management, product management, people development and experience, devops, software infrastructure, software architecture, code design, security and software privacy.
 
