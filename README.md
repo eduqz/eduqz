@@ -1,11 +1,10 @@
 #### Hi, there!
-Technology, management, innovation and design enthusiast.
+Technology, management, innovation, and design enthusiast.
 
-Working as Software Manager at [loomi](https://www.linkedin.com/company/loomi-digital-lab/mycompany/), using agile methodologies, management strategies, software architecture and software maintenance techniques to lead teams and manage the evolution of digital products.
+Currently working as the CTO at [loomi](https://www.linkedin.com/company/loomi-digital-lab/mycompany/), employing agile methodologies, management strategies, software architecture, and software maintenance techniques to lead teams and manage the evolution of digital products.
 
-Interested in software development, agile, project management, product management, people development and experience, devops, software infrastructure, software architecture, code design, security and software privacy.
+Interested in software development, agile methodologies, project management, product management, people development and experience, DevOps, software infrastructure, software architecture, code design, security, and software privacy.
 
-Has knowledge in Python, JavaScript and Java programming languages - with a focus on Django and React frameworks; in use of relational databases; in SRE, using Docker, services from Digital Ocean and AWS.
 ***
 
 To see more information, visit [my website](https://eduqz.github.io/) and/or contact me:
